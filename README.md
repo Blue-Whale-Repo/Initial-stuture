@@ -1,4 +1,7 @@
 # Polkadot WhatsApp Bot Architecture
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/44131a54-140e-42d4-bbd3-ccac6cd6ec9f" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/f5fbb70c-f9f7-4d64-bc6c-11462df50013" />
+
 
 ## 1. WhatsApp Integration Layer
 - **WhatsApp Business API**: Handles sending/receiving messages.
